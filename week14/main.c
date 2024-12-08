@@ -116,6 +116,7 @@ void checkDie(void)
         }
     }
 }
+
 // ----- EX. 5 : shark ------------
 
 // ----- EX. 6 : game end ------------
